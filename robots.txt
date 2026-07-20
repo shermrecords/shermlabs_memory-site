@@ -2,4 +2,4 @@ User-agent: *
 
 Allow: /
 
-Sitemap: https://shermlabs.com/sitemap.xml
+Sitemap: https://shermrecords.github.io/shermlabs_memory/sitemap.xml
