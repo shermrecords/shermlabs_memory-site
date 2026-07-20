@@ -1,0 +1,15 @@
+# ShermLabs
+
+ShermLabs builds practical AI-powered software for transcription, research, documentation, and productivity.
+
+## Products
+
+- ShermLabs Memory: An audio transcription and note organization application.
+- AI research and knowledge tools.
+- Offline and privacy-focused AI workflows.
+
+## Website
+
+- Home: https://shermlabs.com/
+- Application: https://app.shermlabs.com/
+- Contact: mailto:sherm@shermlabs.com
