@@ -202,6 +202,33 @@ h1 span {
   gap: 12px;
   align-items: center;
 }
+
+.contact {
+    text-align: center;
+    padding: 80px 20px;
+    border-top: 1px solid rgba(255,255,255,.08);
+}
+
+.contact h2 {
+    margin-bottom: 15px;
+}
+
+.contact p {
+    color: #b5b5b5;
+    margin-bottom: 20px;
+}
+
+.contact-email {
+    color: #8B5CF6;
+    font-size: 1.15rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.contact-email:hover {
+    text-decoration: underline;
+}
+
 .pipeline span {
   padding: 10px 14px;
   border: 1px solid var(--line);
@@ -259,3 +286,5 @@ footer {
   .button { width: 100%; }
   .cta { padding: 56px 22px; }
 }
+
+
