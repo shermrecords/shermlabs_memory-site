@@ -1,19 +1,9 @@
-SHERMLABS MEMORY LANDING PAGE
+SHERMLABS MEMORY PROJECT SHOWCASE
 
-1. Replace every instance of:
-   https://YOUR-APP-URL.onrender.com
-   with your real Render app URL.
+Static HTML/CSS published from the main branch root through GitHub Pages.
+Demo video: https://www.youtube.com/watch?v=8jfF6JErASs
 
-2. Open index.html directly to preview locally.
+Preview with: python3 -m http.server 8000
+Open http://localhost:8000
 
-3. To use with Flask, move:
-   - index.html into templates/landing.html
-   - style.css into static/landing.css
-   - images/ into static/images/
-
-   Then update the HTML paths to use Flask url_for(), for example:
-   {{ url_for('static', filename='landing.css') }}
-   {{ url_for('static', filename='images/mascot.png') }}
-
-4. The GitHub link is already set to:
-   https://github.com/shermrecords/shermlabs_memory
+Keep software claims consistent with the prototype's demonstrated scope.

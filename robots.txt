@@ -1,5 +1,3 @@
 User-agent: *
-
 Allow: /
-
 Sitemap: https://shermrecords.github.io/shermlabs_memory-site/sitemap.xml

@@ -1,15 +1,9 @@
-# ShermLabs
+# ShermLabs Memory
 
-ShermLabs builds practical AI-powered software for transcription, research, documentation, and productivity.
+Research software prototype for organizing papers, reviewing PDF text extraction, tracking provenance and revisions, and asking questions over selected source evidence.
 
-## Products
+Demo: https://www.youtube.com/watch?v=8jfF6JErASs
+Website: https://shermrecords.github.io/shermlabs_memory-site/
+Source: https://github.com/shermrecords/shermlabs_memory
 
-- ShermLabs Memory: An audio transcription and note organization application.
-- AI research and knowledge tools.
-- Offline and privacy-focused AI workflows.
-
-## Website
-
-- Home: https://shermlabs.com/
-- Application: https://app.shermlabs.com/
-- Contact: mailto:sherm@shermlabs.com
+The demo uses manually checked abstract passages, keyword retrieval, and AI-selected exact source quotations. It does not demonstrate full-paper validated synthesis. Outputs require researcher review.
